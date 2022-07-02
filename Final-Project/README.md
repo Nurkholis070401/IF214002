@@ -72,12 +72,12 @@ aplikasi ini dirancang untuk mempermudah pembaca buku secara online.
 ---
 ## Query SQL
 ### [DDL,DML,DQL](https://github.com/Nurkholis070401/IF214002/tree/main/Pertemuan%2011) - SQL Menggunakan DB pgsql
-```
+
 - [Webservice](https://github.com/Nurkholis070401/IF214002/blob/main/Pertemuan%2014/Webservice.php) - Tes webservice
 - [Visualisasi Data](https://github.com/Nurkholis070401/IF214002/blob/main/Pertemuan%2014/visualizationData.php) - Menampilkan data Query buku
 - [BooksApp](https://github.com/Nurkholis070401/IF214002/tree/main/Final-Project/books)
 - [DemoApp](https://youtu.be/kPMW_TgUyvw)
-```
+
 ---
 
 ![image](https://user-images.githubusercontent.com/100669802/175322444-caa960fb-3bbe-4499-b909-f0375ceb695c.png)
