@@ -1,3 +1,16 @@
+# Buatlah solusi digital dari permasalahan-permasalahan yang teman-teman anggap penting untuk diselesaikan dalam bentuk :
+- Database
+- Web service yang terhubung ke database
+- Visualisasi data menggunakan data dari web service (mobile / web / desktop)
+- GUI untuk operasional CRUD dari solusi digital tersebut (mobile / web / desktop)
+# Dikumpulkan dalam bentuk link Github repository basis data dalam folder /uas-praktikum yang didalamnya terdapat:
+- Deskripsi singkat solusi digital yang dibuat
+- DDL DML DQL basis data untuk keperluan CRUD dan Visualisasi data
+- Source code dari visualisasi data dan app yang dibuat
+- Link Youtube demo solusi digital yang dibuat
+
+---
+
 ## APLIKASI BUKU ONLINE
 #### Deskripsi
 aplikasi ini dirancang untuk mempermudah pembaca buku secara online. 
@@ -59,9 +72,13 @@ aplikasi ini dirancang untuk mempermudah pembaca buku secara online.
 ---
 ## Query SQL
 ### [DDL,DML,DQL](https://github.com/Nurkholis070401/IF214002/tree/main/Pertemuan%2011) - SQL Menggunakan DB pgsql
+```
 - [Webservice](https://github.com/Nurkholis070401/IF214002/blob/main/Pertemuan%2014/Webservice.php) - Tes webservice
 - [Visualisasi Data](https://github.com/Nurkholis070401/IF214002/blob/main/Pertemuan%2014/visualizationData.php) - Menampilkan data Query buku
-- [BooksApp] 
+- [BooksApp](https://github.com/Nurkholis070401/IF214002/tree/main/Final-Project/books)
+- [DemoApp](https://youtu.be/kPMW_TgUyvw)
+```
 ---
 
+![image](https://user-images.githubusercontent.com/100669802/175322444-caa960fb-3bbe-4499-b909-f0375ceb695c.png)
 ![image](https://user-images.githubusercontent.com/100669802/175284940-9bd96d06-9dbe-40a4-9b81-6fc0c4ca3194.png)
